@@ -19,4 +19,4 @@ Machine Learning (Linear Regression).
 2. Run `python main.py`
 
 ## Output
-![Prediction Output](output.png)
+![Prediction Output](op.png)
